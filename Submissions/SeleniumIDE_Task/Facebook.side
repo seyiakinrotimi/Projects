@@ -10,7 +10,7 @@
       "id": "37828ef6-84d7-4a0e-9d91-ee738fe1ea75",
       "comment": "",
       "command": "open",
-      "target": "/",
+      "target": "",
       "targets": [],
       "value": ""
     }, {
@@ -33,7 +33,7 @@
         ["xpath=//form[@id='u_0_e_QS']/div/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
-      "value": "seyiakinrotimi@gmail.com"
+      "value": "sukalim11@gmail.com"
     }, {
       "id": "89b07447-4aa2-49bc-ad50-2bef0944f10f",
       "comment": "",
@@ -61,7 +61,7 @@
         ["xpath=//div[@id='passContainer']/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "Omojesunimi1"
+      "value": "Omisorewa1"
     }, {
       "id": "e347f81d-64e2-4496-a95d-2a02ff0cc65f",
       "comment": "",
