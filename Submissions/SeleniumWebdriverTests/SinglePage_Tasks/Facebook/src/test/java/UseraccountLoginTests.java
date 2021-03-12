@@ -38,6 +38,8 @@ public class UseraccountLoginTests {
         driver.findElement(By.xpath("/html/body/div[1]/div[2]/div[1]/div/div/div/div[2]/div/div[1]/form/div[2]/button")).click();
         //wait to see users logged in page
         Thread.sleep(5000);
+        //Maximize the browser
+        driver.manage().window().fullscreen();
         //Test to confirm user logged in
         if(driver.getCurrentUrl().contains("https://www.facebook.com/?sk=welcome")){
             System.out.println("PASSED-User has successfully logged in'");

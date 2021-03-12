@@ -5,19 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac2340be-efe2-49cf-ac87-f0df183b607f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/SeleniumWebdriverTests.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Facebook_Login/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Facebook_Login/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Facebook_Login/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Facebook_Login/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Facebook_Login/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Facebook_Login/Facebook_Login.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/38faf433-a7dc-4c8a-950a-d05070dc3714-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3debfca4-9c2e-4368-8c51-ee5d480e537e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/44489cac-7bcb-43e7-830c-5087f5570351-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47b17387-9953-41b4-8f13-4c7bd8aaaefd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78c24ecb-e1d6-4d34-bacd-87c01a682875-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b7cf565d-7f11-4bf5-a703-0ef1ae4577a2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1b1cb07-eb1f-4ee8-baa6-f3812c94b7d0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eed57557-0257-4c81-98b6-2ccdd5cb488b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/064e7506-13a5-45f3-84ff-e30c24146677-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/150930d0-0eb1-4a0d-9841-d05cc5548c7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/20985e17-4f15-4271-b2ed-08945ed9fbd6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/21c86dd8-4571-4970-9a66-8edc3932f45a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/25becab0-9296-4b0d-98a5-3a6a5dc8138b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/35248e05-6c50-4368-a89e-8ddbf47e33b3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/37ed850e-41c9-468c-8d82-61a766ea6f27-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/44a30a42-0e10-4d97-b53e-1710812a90d3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/46e93913-9275-49c3-a42c-8c2d0f540734-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/4a7292ec-972a-43ef-970c-8ad020ac1591-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/4d43b21d-326a-4d89-b644-db8c011f8fe2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/51063a1e-8e1c-40f2-800a-836d5639d56b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/5b42db8d-640f-4511-84da-17f4963322eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/5b5ebab1-ce85-4cb9-b64b-205b9b306dd9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/5ef8efd3-cc7a-47be-afe6-2c9e30c3da2a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/77fbb773-9a65-47da-b075-4becd8220ee8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/82c9b1e9-a989-4e2a-ab49-ed14b0d63b5c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/853ceb2a-49cb-4ef0-b924-6ed9f66014b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/9088ad00-6bd4-48b7-9239-e533e070bf9a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/96223fca-b6aa-4bb8-8faf-75eed9f90bb4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/970c323f-6433-4cea-8329-bcc8630d5bda-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/975f086f-9476-4734-8597-fba0455bf151-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/9e61cb8c-1f32-4cc6-813f-5dfc30f1be0f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/b2bc3af4-829e-4a28-a546-5fa8945e7014-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/b613db56-0301-4e88-8d8c-bd946fb6c8fb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/b82797fe-563d-4698-b058-19fd8670ccac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/ba13601d-9949-4149-a49e-1b23045e531f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/bed74856-32fc-4758-9a47-8a573168a797-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/cd7f23ce-32ab-46c8-864a-fa389748fd79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/d3516e03-8610-4b99-9ffa-67475f4443e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/e377c379-8abb-417f-8d61-b10aad8c4d49-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/e51026dd-7804-4bd5-b939-3f4d92b4adcc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/f28a8075-e4e5-4e7a-b71d-918fc832b87d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/f3e85dde-a192-4588-88e5-8a7e0c9d6c67-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/fac1aa62-a26b-4fa9-a5bd-9ffbf02333da-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SeleniumIDE_Task/Akinrotimi1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SeleniumIDE_Task/Facebook.side" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SeleniumIDE_Task/Facebook.side" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SeleniumIDE_Task/Facebook_newtest.side" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SeleniumIDE_Task/akinrotimi2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SeleniumIDE_Task/akinrotimi3.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/src/test/java/UseraccountLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/src/test/java/UseraccountLoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/target/test-classes/UseraccountLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/target/test-classes/UseraccountLoginTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +91,17 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/student114/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_Tasks/Deydam/testng.xml">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/student114/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_Tasks/Deydam/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Deydam_Login" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -97,6 +146,7 @@
       <updated>1615474429903</updated>
       <workItem from="1615474431042" duration="2928000" />
       <workItem from="1615485646227" duration="1326000" />
+      <workItem from="1615569056114" duration="2849000" />
     </task>
     <servers />
   </component>
