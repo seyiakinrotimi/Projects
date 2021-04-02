@@ -1,2 +1,2 @@
-# TestCodeCamp_Programme
-Repository for API Automation Test
+# Projects
+This is a Repository of my projects in both API and UI for using different frameworks
